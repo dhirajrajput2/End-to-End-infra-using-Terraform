@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+*.backup
+
+# Local AWS files
+.aws/
+
+# OS files
+.DS_Store
+Thumbs.db
