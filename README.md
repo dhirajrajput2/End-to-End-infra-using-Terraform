@@ -106,8 +106,8 @@ This project implements a complete **multi-tier AWS infrastructure** using Terra
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aws-multi-tier-terraform-project.git
-cd aws-multi-tier-terraform-project
+git clone https://github.com/dhirajrajput2/End-to-End-infra-using-Terraform.git
+cd End-to-End-infra-using-Terraform
 2. Configure AWS Credentials
 You have two options to configure AWS credentials:
 
@@ -298,8 +298,6 @@ http://myapp-alb-1234567890.ap-south-1.elb.amazonaws.com
 
 Open this URL in your browser - you should see the Nginx welcome page!
 
-https://screenshots/app-running.png
-
 
 7. Verify Resources in AWS Console
 
@@ -336,22 +334,19 @@ This will delete all resources created by this project.
 ## 📊 Screenshots
 
 ### Terraform Apply Complete
-![Terraform Apply](./screenshots/terraform-apply.png)
+![Terraform Apply](./screenshots/Infrastructure.png)
 
 ### AWS Console - EC2 Instances
-![EC2 Instances](./screenshots/ec2-instances.png)
+![EC2 Instances](./screenshots/Ec2-Instancs.png)
 
 ### AWS Console - Load Balancer
-![Load Balancer](./screenshots/load-balancer.png)
+![Load Balancer](./screenshots/Load-Balancer.png)
 
 ### AWS Console - RDS Database
-![RDS Database](./screenshots/rds-database.png)
+![RDS Database](./screenshots/DB.png)
 
 ### AWS Console - VPC
-![VPC](./screenshots/vpc.png)
-
-### Application Running
-![Application Running](./screenshots/application.png)
+![VPC](./screenshots/Vpc.png)
 
 
 🛠️ Troubleshooting
@@ -416,13 +411,11 @@ Open Pull Request
 
 👨‍💻 Author  
 
-Ritej Mule   
+Dhiraj Rajput   
 
-GitHub: @ritejmule2126  
+GitHub: @dhirajrajput2  
 
-LinkedIn: https://www.linkedin.com/in/ritej    
-
-Portfolio: http://ritejportfolio.kesug.com  
+LinkedIn: https://www.linkedin.com/in/rajput-dhiraj/   
 
 
 🙏 Acknowledgments
