@@ -413,9 +413,9 @@ Open Pull Request
 
 Dhiraj Rajput   
 
-GitHub: @dhirajrajput2  
+GitHub : @dhirajrajput2  
 
-LinkedIn: https://www.linkedin.com/in/rajput-dhiraj/   
+LinkedIn : https://www.linkedin.com/in/rajput-dhiraj/   
 
 
 🙏 Acknowledgments
